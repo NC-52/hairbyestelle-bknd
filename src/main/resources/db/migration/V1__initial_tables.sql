@@ -1,3 +1,5 @@
+-- THIS FOLLOW PostgreSQL SYNTAX MAINLY
+
 create table address (
     id bigserial primary key ,
     city varchar(255) not null ,
